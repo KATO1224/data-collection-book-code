@@ -1,0 +1,2 @@
+database,search_topic,search_date,search_field,time_range,document_type,export_fields,export_format,record_count,file_name
+"Example Database","Fictional topic: reproducible data lessons","2026-07-23","Title/Abstract/Keywords","2020-2026","Article; Conference Paper","title;authors;affiliations;year;source;document_type;abstract;keywords;doi;citation_count;database","CSV",2,"ExampleDB_fictional_reproducible_lessons_2026-07-23.csv"

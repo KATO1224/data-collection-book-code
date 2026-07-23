@@ -2,7 +2,7 @@
 
 《数据采集》教材第 5.1 节、第 5.2 节和第 6.1 节配套代码与教学材料。
 
-本仓库根据书稿中的完整案例整理而成。代码修复了 Word 排版造成的缩进、换行和重复片段问题，并将个人桌面路径统一改为项目内相对路径。仓库不包含第 5.3 节、第 5.4 节及其他章节内容。
+本仓库根据书稿中的完整案例整理而成。
 
 ## 章节对应关系
 
@@ -136,4 +136,3 @@ python chapter05/5.2-operating-system/server_resource_monitor.py
 - 8000 端口被占用：先停止占用端口的程序，或修改 `metrics_exporter_demo.py` 中的 `PORT` 常量。
 - CSV 在 Excel 中显示异常：程序输出使用 `utf-8-sig`；若被其他软件转换编码，请重新以 UTF-8 打开。
 
-代码测试范围、环境限制和逐项检查结果见 [CODE_CHECK_REPORT.md](CODE_CHECK_REPORT.md)，书稿问题与修改内容见 [CHANGELOG.md](CHANGELOG.md)。

@@ -17,7 +17,6 @@
 ```text
 data-collection-book-code/
 ├── README.md
-├── CODE_CHECK_REPORT.md
 ├── CHANGELOG.md
 ├── requirements.txt
 ├── .gitignore
